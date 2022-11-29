@@ -1,2 +1,1 @@
-# Machine_Learning_Project
-Decentralized Smart Grid Stability Prediction using Machine Learning Techniques
+## Decentralized Smart Grid Stability Prediction using Machine Learning Techniques
